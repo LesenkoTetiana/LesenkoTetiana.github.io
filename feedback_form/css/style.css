@@ -1,0 +1,58 @@
+body {
+  text-align: center;
+  letter-spacing: 0.04em;
+  font-weight: 500;
+  margin-bottom: 72px;
+  margin-top: 72px;
+  align-items: center;
+}
+.header {
+  margin-bottom: 50px;
+  font-size: 30px;
+  line-height: 42px;
+}
+.header span {
+  display: block;
+}
+.form-header {
+  font-size: 22px;
+}
+.form {
+  border: 7px solid #0012b4;
+  padding: 51px 33px;
+}
+.form-header {
+  margin-bottom: 33px;
+}
+.form input {
+  font-size: 16px;
+  color: rgba(149, 149, 149, 0.7);
+  height: 54px;
+  margin-bottom: 14px;
+}
+.form-btn {
+  background: #0012b4;
+  border: 2px solid #000c79;
+  font-size: 22px;
+  height: 70px;
+  width: 100%;
+}
+h2 {
+  margin: 110px auto 73px;
+  font-weight: bold;
+  font-size: 30px;
+  letter-spacing: 0.08em;
+}
+.icon-2,
+.icon-3 {
+  padding-top: 20px;
+}
+.feature p {
+  margin-top: 15px;
+}
+.feature-box {
+  margin-bottom: 73px;
+}
+.video {
+  margin-bottom: 30px;
+}
